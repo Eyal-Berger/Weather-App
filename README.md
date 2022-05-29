@@ -3,6 +3,9 @@
 Web application about the weather, getting weather data about a particular city and adding to favorites.
 
 
+<img width="1728" alt="Снимок экрана 2022-05-29 в 14 31 51" src="https://user-images.githubusercontent.com/85338339/170866769-edf9d899-fde8-43a0-9395-356ea4efe4c9.png">
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
