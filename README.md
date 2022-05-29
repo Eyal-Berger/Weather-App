@@ -1,4 +1,8 @@
-#Weather-App
+# Weather-App
+
+Web application about the weather, getting weather data about a particular city and adding to favorites.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
