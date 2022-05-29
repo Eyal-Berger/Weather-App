@@ -1,0 +1,13 @@
+.favoritesDataBox {
+    background: rgba(35, 55, 131, 0.4);
+    text-align: center;
+    margin-left: 30; 
+    color: blanchedalmond !important;
+}
+
+
+hr {
+    height: 12px !important;
+    border: 0 !important;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}

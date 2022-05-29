@@ -1,0 +1,44 @@
+h1 {
+    margin-top: 30px !important;
+    margin-bottom: 50px !important;
+}
+
+.btn:active {
+    border: 1px solid whitesmoke;
+}
+
+
+.btn:hover {
+    color: whitesmoke !important;
+    transform: scale(0.968, 1);
+    -webkit-transform: scale(0.968, 1);
+    -moz-transform: scale(0.968, 1);
+    -o-transform: scale(0.968, 1);
+    -ms-transform: scale(0.968, 1);
+} 
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #23326A;
+}
+
+.mainContainer {
+    background: none !important;
+}
+
+.dafaultTempTLV {
+    margin-left: 10;
+}
+
+.location {
+    margin-right: 10px;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+.selectedCity {
+    color: rgb(13, 23, 107);
+    font-family: fantasy;
+}
+
