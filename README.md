@@ -6,6 +6,8 @@ Web application about the weather, getting weather data about a particular city 
 <img width="1728" alt="Снимок экрана 2022-05-29 в 14 31 51" src="https://user-images.githubusercontent.com/85338339/170866769-edf9d899-fde8-43a0-9395-356ea4efe4c9.png">
 
 
+<img width="1728" alt="Снимок экрана 2022-05-29 в 14 32 38" src="https://user-images.githubusercontent.com/85338339/170866850-49c0cb38-f990-406d-aac9-9d0648f876d4.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
